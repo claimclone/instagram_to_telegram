@@ -1,12 +1,12 @@
 [credentials]
 # API TOKEN бота (получают у @BotFather).
-token = xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+token = 1779664247:AAGp-FKsHIhJOyReRu3KzGarfvlI5G7vKHE
 
 # Логин владельца аккаунта Instagram.
-login = xxxxxxxxxxxx
+login = regramhamyar
 
 # Пароль владельца аккаунта Instagram.
-password = xxxxxxxxxxxx
+password = Q2wertyu?!;
 
 # Режим ручной авторизации в Instagram. Если автоматическая авторизация
 # почему-то не срабатывает, можно попробовать активировать ручной режим.
@@ -46,11 +46,11 @@ use_proxy = False
 # Для приватных сообществ, а также пользователей следует указать численный
 # идентификатор, который можно получить, например, с помощью бота @ShowJsonBot.
 # Перечисляются каналы через запятую, без пробелов.
-telegram_channels = @test_channel,1234567890
+telegram_channels = @hashiyehclips,-1001552195376
 
 
 [instagram:instagram]
-telegram_channels = @test_channel,1234567890
+telegram_channels = @hashiyehclips,-1001552195376
 
 
 [instagram:gisel_la]
